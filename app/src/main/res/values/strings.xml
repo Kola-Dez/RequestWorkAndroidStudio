@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RequestWork</string>
+    <string name="default_text">text</string>
+    <string name="download_data">Загрузить данные</string>
+</resources>
